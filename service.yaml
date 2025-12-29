@@ -9,5 +9,5 @@ spec:
     app: zomato-clone
   ports:
   - port: 80
-    targetPort: 3000
+    targetPort: 8000
     nodePort: 30080
